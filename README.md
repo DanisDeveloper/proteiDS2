@@ -15,6 +15,7 @@ git clone https://github.com/DanisDeveloper/proteiDS2.git
 cd proteiDS2
 python -m venv venv
 source venv/bin/activate
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 ## Точка входа в программу находится в main.py
