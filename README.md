@@ -6,6 +6,7 @@ git clone https://github.com/DanisDeveloper/proteiDS2.git
 cd proteiDS2
 python -m venv venv
 venv\Scripts\activate.bat
+python.exe -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 ## Быстрая настройка для Linux
