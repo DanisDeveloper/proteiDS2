@@ -18,7 +18,7 @@ source venv/bin/activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
-## Точка входа в программу находится в main.py
+## Точка входа в программу находится в task3.py
 ```
 python main.py ./data/images/pcb.jpg
 ```
