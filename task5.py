@@ -2,8 +2,6 @@ import cv2
 import sys
 import numpy as np
 
-def nothing(args):pass
-
 def show_image(name, image):
     cv2.namedWindow(name,cv2.WINDOW_NORMAL)
     cv2.imshow(name, image)
